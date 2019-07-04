@@ -16,6 +16,8 @@ git clone git@github.com:junwei2019/junwei2019.github.io.git
 
 生成KEY
 
+> C:\Users\lijunwei\.ssh\id_rsa.pub
+
 ```
 ssh-keygen
 ```
